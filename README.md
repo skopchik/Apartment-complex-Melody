@@ -1,2 +1,3 @@
-# Apartment-complex-Melody
-https://skopchik.github.io/Apartment-complex-Melody/
+# Apartment complex "Melody"
+## Учебный проект Glo Academy
+### https://skopchik.github.io/Apartment-complex-Melody/
